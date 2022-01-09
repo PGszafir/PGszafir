@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PGszafir
-- 👀 I’m interested in physics, compuer simulations, 3D modeling, 3D printing, and more 
+- 👀 I’m interested in physics, compuer simulations, 3D modeling, 3D printing,programing microcontrolers and more 
 - 🌱 I’m currently learning how upgrade my skils in Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
